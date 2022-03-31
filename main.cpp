@@ -1,7 +1,3 @@
-/*
-Created By Azlo!
-This Code Will Be Updated!
-*/
 #include <iostream>
 #include <unistd.h>
 #include <chrono>
